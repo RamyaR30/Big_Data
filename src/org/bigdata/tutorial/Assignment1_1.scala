@@ -4,7 +4,7 @@ import java.io.FileWriter
 import scala.collection.{Seq, mutable}
 import scala.util.Random
 
-object Assignment1 {
+object Assignment1_1 {
 
   /**
    * The following methods simulates fake "big data".
